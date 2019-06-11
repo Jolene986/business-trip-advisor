@@ -1,7 +1,9 @@
 # Todo
 
 ## Todo
-pročitati dokumentaciju i dizajnirati db i tabele (2.7.3)
+napraviti arhitekturu baze:
+* kreirati 6 tabela
+* podesiti relacije medju njima
 
 ## Upgrade
 
